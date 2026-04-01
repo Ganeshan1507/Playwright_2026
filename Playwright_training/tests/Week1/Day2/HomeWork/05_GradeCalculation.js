@@ -28,6 +28,8 @@ switch (true) {
         console.log("Student Score: " + score + ", Grade: Failed");
 
 }
+
+
 }
 
 calculateGrade(score)
